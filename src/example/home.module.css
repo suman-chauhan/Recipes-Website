@@ -1,0 +1,20 @@
+.page 
+{
+    color: crimson;
+    background-color: darkkhaki;
+}
+
+.page h1 {
+    color: darkblue;
+}
+
+.text 
+{
+    text-transform: capitalize;
+    color: black;
+}
+.error_page {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
